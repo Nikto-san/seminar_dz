@@ -28,7 +28,7 @@ void PrintArray(int[] col)
     }
 }
 PrintArray(list);
-Console.Write(list);
+Console.WriteLine(list);
 
 void reverseMassive(int[] list)
 {
