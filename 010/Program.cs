@@ -42,4 +42,3 @@ void reverseMassive(int[] list)
 }
 reverseMassive(list);
 PrintArray(list);
-
