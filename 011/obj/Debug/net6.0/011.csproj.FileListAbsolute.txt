@@ -1,0 +1,15 @@
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\bin\Debug\net6.0\011.exe
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\bin\Debug\net6.0\011.deps.json
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\bin\Debug\net6.0\011.runtimeconfig.json
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\bin\Debug\net6.0\011.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\bin\Debug\net6.0\011.pdb
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.csproj.AssemblyReference.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.AssemblyInfoInputs.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.AssemblyInfo.cs
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.csproj.CoreCompileInputs.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\refint\011.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.pdb
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\011.genruntimeconfig.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\DZ01\011\obj\Debug\net6.0\ref\011.dll
